@@ -1,4 +1,4 @@
-# Aspect Extraction---Amazon-Reviews-of-Wireless-Headphones
+# Topic/Aspect Extraction---Amazon-Reviews-of-Wireless-Headphones
 ## Executive Summary
 This project sought to usr unsupervised Natural Language Processing (NLP) techniques and modeling to extract features of wireless headphones. The data came from two places. The first is a Kaggle dataset of amazon reviews of wireless headphones. The second source is data I scraped from amazon from various product review pages using a Google Chrome Web Scraper extension. I chose wireless headphones as the product I would like to review because there are definitely specific features coming out in the newer headphones that warrant sentiment analysis.
 
